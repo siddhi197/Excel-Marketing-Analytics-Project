@@ -345,9 +345,8 @@ https://www.kaggle.com/datasets/rodsaldanha/marketing-campaign
 ### Dashboard
 
 📄 [View Interactive Marketing Campaign Dashboard](https://siddhi197.github.io/Interactive-Marketing-Dashboard/)
-## 📊 Dashboard Preview
 
-![Dashboard Preview](dashboard-preview.pdf)
+📊 [Dashboard Preview](dashboard-preview.pdf)
 
 ## 👤 Author
 
