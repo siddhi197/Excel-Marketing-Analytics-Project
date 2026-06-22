@@ -1,5 +1,10 @@
 # Marketing Campaign Performance & Customer Conversion Analysis
 
+## 🚀 Live Dashboard (Explore First)
+👉 https://siddhi197.github.io/Interactive-Marketing-Dashboard/
+
+---
+
 ## 📌 Project Overview
 
 Businesses often run multiple marketing campaigns but struggle to understand:
@@ -340,6 +345,9 @@ https://www.kaggle.com/datasets/rodsaldanha/marketing-campaign
 ### Dashboard
 
 📄 [View Interactive Marketing Campaign Dashboard](https://siddhi197.github.io/Interactive-Marketing-Dashboard/)
+## 📊 Dashboard Preview
+
+![Dashboard Preview](dashboard-preview.pdf)
 
 ## 👤 Author
 
